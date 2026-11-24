@@ -1,11 +1,11 @@
-# Make the AI Judge Laugh: Developer Excuses
+# Developer Excuses
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3)
-[![Node](https://img.shields.io/badge/node-%3E%3D22.18-green)](https://nodejs.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Make.fun](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3)
+[![Rank](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3/yovmiar19/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3-entry/rank.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3)
+[![Reward](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3/yovmiar19/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3-entry/reward.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3)
 
-A one-line developer excuse for the make.fun bounty
-"Make the AI Judge Laugh: Developer Excuses".
+A one-line developer excuse, entered in the [Make the AI Judge Laugh: Developer Excuses](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3) bounty on make.fun.
 
-Running `main.ts` with Node 22 writes a single funny excuse — the one a
-developer gives when code breaks in production — to `/output/entry.txt`.
+> I approved that pull request from my phone in a Chili's parking lot while my wife yelled at me to buy milk.
+
+Running `main.ts` (Node 22) writes the excuse — 107 characters, a single line — to `/output/entry.txt`.
